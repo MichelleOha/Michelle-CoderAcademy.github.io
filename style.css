@@ -8,6 +8,9 @@
   --neutral4: #e27d60ff;
   --neutral5: #1dbfd5ff;
   --font1: 50px;
+  --font2: 25px;
+  --font3: 16px;
+  --font4: 35px;
 }
 
 html,
@@ -31,10 +34,13 @@ li {
 body {
   background-color: var(--primary3);
   font-family: "Open Sans", sans-serif;
-  height:100vh;
+  /* height:100vh; */
   display:flex; 
   flex-direction:column; 
+  /* width: 100%; */
+  overflow: scroll;
 }
+
 
 .title {
   text-align: center;
@@ -46,39 +52,64 @@ body {
 
 .sub-title {
   text-align: center;
-  font-size: 40px;
+  font-size: var(--font2);
   color: var(--primary1);
   margin-bottom: 20px;
 }
 
 .statement {
-  text-align: center;
-  font-size: 20px;
-  color: var(--primary2);
-  font-size: medium;
-  margin-top: 35px;
-}
+    text-align: center;
+    font-size: 20px;
+    color: var(--primary2);
+    font-size: var(--font3);
+    margin-top: 35px;
+  }
 
 .sketch {
   display: block;
   max-width: 100%;
   margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.page-name {
+        text-align: center;
+        font-size: 30px;
+        color: var(--primary2);
+        margin-bottom: 20px;
+        margin-top: 80px;
+}
+
+.description {
+  text-align: center;
+  color: var(--primary1);
+  font-size: var(--font3);
+  margin-top: 35px;
+  padding: 20px;
+}
+
+.qualifications {
+    text-align: center;
+    font-size: var(--font2);
+    color: var(--primary2);
+    margin-top: 35px;
+    margin-bottom: 0px;
+    padding: 20px; 
+}
+
+.experience {
+    text-align: center;
+    font-size: var(--font3);
+    color: var(--primary1);
+    margin-top: 5px;
+    padding: 10px; 
 }
 
 footer {
   text-align: left;
   color: var(--primary1);
   margin-top:auto; 
-  font-size: 8px;
-}
-
-a:hover {
-  color: red;
-}
-
-li {
-  color: var(--primary1);
-  text-decoration: none;
+  font-size: 10px;
 }
 
 .menu-links {
@@ -91,6 +122,11 @@ li {
 .menu-link {
   color: var(--primary1);
   text-decoration: none;
+  color: var(--primary1);
+  text-decoration: none;
 }
 
+.menu-link:hover {
+    color: red;
+}
 
