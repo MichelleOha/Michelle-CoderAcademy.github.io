@@ -336,15 +336,7 @@ footer {
     .sub-title {
         font-size: var(--font5)
     }
-/* blog pictures and video */
-
-    .my-life-in-tech {
-        width: 80vw;
-    }
-
-    .ha-article1 {
-        width: 80vw;
-    }
+/* blog video */
 
     .embed-youtube iframe,
     .embed-youtube object,
@@ -357,9 +349,13 @@ footer {
         height: 80%;
     }
 
-    .ha-article2 {
-        width: 80vw;
-    }
+    .me {
+      width: 30%;
+  }
+
+  .fashion-sketch {
+    height: 300px;
+}
 
 }
 
@@ -369,11 +365,7 @@ footer {
     }
 
     .fashion-sketch {
-        height: 800px;
-    }
-
-    .me {
-        width: 30%;
+        height: 440px;
     }
 
     .statement {

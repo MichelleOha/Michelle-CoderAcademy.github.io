@@ -12,7 +12,7 @@ I researched and found many different styles of web development portfolios onlin
 
 _Colour Palette:_
 
-Next was the colour theme. I originally wanted to go with really safe neutral colours like white, tan, beige. But once I started to style with these colours I didn't feel inspired by them. So I did some research and found a colour palette that made me feel creative and captivated me and I decided I would work with something similar to that (inspiration image below)
+I originally wanted to go with really safe neutral colours like white, tan, beige. But once I started to style with these colours I didn't feel inspired by them. So I did some research and found a colour palette that made me feel creative and captivated me and I decided I would work with something similar to that (inspiration image below)
 
 ![image](./assets/colour-palette.png)
 Image reference: https://visme.co/blog/website-color-schemes/
@@ -22,7 +22,7 @@ _My final colour palette:_
 
 _Representing my artist talents:_
 
-Next I wanted to add an element to my portfolio to represent my creative talents. I decided to draw some original sketches in paint that I would use on my pages that were relevant to the content. I found this to be really enjoyable and a good way to express my creativity to the user.
+I wanted to add an element to my portfolio to represent my creative talents. I decided to draw some original sketches in paint that I would use on my pages that were relevant to the content. I found this to be really enjoyable and a good way to express my creativity to the user.
 
 **Sketches created and used in my portfolio:**
 
@@ -42,7 +42,7 @@ As a dyslexic person, I wanted to use that to my advantage when it came to the v
 **Sitemap**
 ![image](<./assets/portfolio_sitemap.drawio%20(2).png>)
 
-Next I decided to keep my website the same layout across all device sizes so that it is easily recognises by the users. This is something I find a little distracting and a little confusing myself when I go from an IPhone to a desktop screen. Especially when the website isn't too complex.
+I decided to have my portfolio layout across all device sizes the same so that it is easily recognises by the users. This is something I find a little distracting and sometimes confusing myself when I go from an IPhone to a desktop screen.
 
 **Wireframes created in Figma**
 ![image](./assets/wireframes-T1A2.png)
@@ -64,17 +64,17 @@ _About Me Page_
 ![image](./assets/about-me-page.png)
 ![image](./assets/about-me-page2.png)
 
-I have included a photo of myself the user recognises me as it is the same image I have used in my linkedin profile. I have given a brief paragraph on my experience. I have a resume button in lavender encouraging the user to click on it which will then open a PDF of a mock resume for them to access and read. Under that I have listed my tertiary qualifications and an original sketch.
+I have included a photo of myself so that the user recognises who I am as it is the same photo I have used in my linkedin profile. I have given a brief paragraph on my experience. I have a resume button in lavender encouraging the user to click on it which will then open a PDF of a mock resume for them to access and read. Under that I have listed my tertiary qualifications and an original sketch.
 
 _Contact Page_
 ![image](./assets/contacts-page.png)
 
-I have created a contact form so that there is minimal effort on the users behalf to have to contact me. I have used lavender for the submit button so it is clearly visible to the user. At the bottom of the page I have inserted another original sketch of my location.
+I have created a contact form so that there is minimal effort on the users behalf to have to engage and contact me. I have used lavender for the submit button so it is clearly visible to the user. At the bottom of the page I have inserted another original sketch of my location.
 
 _Top of the Blog Page_
 ![image](./assets/blogs-page.png)
 
-The user can select one of the blogs from the list at the top of the page (under the Blogs heading) which has a link directing them start to that particular blog on the page.
+The user can select one of the blogs from the list at the top of the page (under the Blogs heading) which has a link directing them start to that particular blog on the same page.
 
 **My Tech Stack**
 
