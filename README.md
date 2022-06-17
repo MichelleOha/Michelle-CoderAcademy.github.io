@@ -56,22 +56,25 @@ _Devtools_ was extremely helpful when it came to altering my styling in CSS. Des
 **Overall design and layout of portfolio**
 
 _Home Page_
+
 ![image](./assets/home-page.png)
 
 Clean and simplistic design with my name, job title and a unique original sketch that captures the users eye.
 
 _About Me Page_
-![image](./assets/about-me-page.png)
-![image](./assets/about-me-page2.png)
 
-I have included a photo of myself so that the user recognises who I am as it is the same photo I have used in my linkedin profile. I have given a brief paragraph on my experience. I have a resume button in lavender encouraging the user to click on it which will then open a PDF of a mock resume for them to access and read. Under that I have listed my tertiary qualifications and an original sketch.
+![image](./assets/about-me-page.png)
+
+I have included a photo of myself so that the user recognises who I am as it is the same photo I have used in my linkedin profile. I have given a brief paragraph on my experience. I have a resume button in lavender encouraging the user to click on it which will then open a PDF of a mock resume for them to access and read. Under that I have listed my tertiary qualifications and an original sketch at the bottom of the page.
 
 _Contact Page_
+
 ![image](./assets/contacts-page.png)
 
 I have created a contact form so that there is minimal effort on the users behalf to have to engage and contact me. I have used lavender for the submit button so it is clearly visible to the user. At the bottom of the page I have inserted another original sketch of my location.
 
 _Top of the Blog Page_
+
 ![image](./assets/blogs-page.png)
 
 The user can select one of the blogs from the list at the top of the page (under the Blogs heading) which has a link directing them start to that particular blog on the same page.
