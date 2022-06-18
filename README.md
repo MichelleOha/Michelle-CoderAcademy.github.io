@@ -2,7 +2,7 @@
 
 **Link to published portfolio website: www.michelleoha.com**
 
-**Link to GitHub repo: MichelleOha/Michelle-CoderAcademy.github.io**
+**Link to GitHub repo: https://github.com/MichelleOha/MichelleOha.github.io**
 
 My portfolio website is bright and creative with a minimalist feel to it so that it gets straight to the point for the user. It's purpose is to tell the user who I am and what I do and allow them to contact me with minimal effort.
 
