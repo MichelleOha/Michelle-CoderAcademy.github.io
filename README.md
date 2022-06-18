@@ -1,6 +1,6 @@
 # Portfolio T1A2
 
-**Link to published portfolio website:**
+**Link to published portfolio website: www.michelleoha.com**
 
 **Link to GitHub repo: MichelleOha/Michelle-CoderAcademy.github.io**
 
@@ -18,6 +18,7 @@ I originally wanted to go with really safe neutral colours like white, tan, beig
 Image reference: https://visme.co/blog/website-color-schemes/
 
 _My final colour palette:_
+
 ![image](./assets/my-colour-palette.png)
 
 _Representing my artist talents:_
@@ -27,12 +28,15 @@ I wanted to add an element to my portfolio to represent my creative talents. I d
 **Sketches created and used in my portfolio:**
 
 _Sketch of me at a computer coding_
+
 ![image](./assets/Image.png)
 
 _Sketch of my career path so far -fashion designer, bookkeeper, and soon to be web developer_
+
 ![image](./assets/jackdollkey.png)
 
 _Sketch of my location "KIAMA BLOWHOLE"_
+
 ![image](./assets/kiama3.png)
 
 _Extra features to also target dyslexic users:_
@@ -40,11 +44,13 @@ _Extra features to also target dyslexic users:_
 As a dyslexic person, I wanted to use that to my advantage when it came to the visual side of my portfolio, including the layout and overall execution of my website. I wanted a font that was easy to read so I chose Open Sans. I wanted there to be minimal text used on my pages so that the user could see what message I was trying to portray without having to search for it. I wanted everything centered where possible and the menu bar to be clear and easy to read and access.
 
 **Sitemap**
+
 ![image](<./assets/portfolio_sitemap.drawio%20(2).png>)
 
 I decided to have my portfolio layout across all device sizes the same so that it is easily recognises by the users. This is something I find a little distracting and sometimes confusing myself when I go from an IPhone to a desktop screen.
 
 **Wireframes created in Figma**
+
 ![image](./assets/wireframes-T1A2.png)
 
 **Styling in CSS vs SASS**
