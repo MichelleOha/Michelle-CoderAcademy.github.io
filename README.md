@@ -1,6 +1,7 @@
 # Portfolio T1A2
 
 **Link to published portfolio website: www.michelleoha.com**
+**Please refer to this link if above has not deployed yet: https://tiny-haupia-f8994b.netlify.app**
 
 **Link to GitHub repo: https://github.com/MichelleOha/MichelleOha.github.io**
 
