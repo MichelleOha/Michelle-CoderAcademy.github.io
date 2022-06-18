@@ -77,6 +77,10 @@ _Contact Page_
 
 ![image](./assets/contacts-page.png)
 
+_Amended Contact Form to Center it in the Page_
+
+![image](./assets/amended-form.png)
+
 I have created a contact form so that there is minimal effort on the users behalf to have to engage and contact me. I have used lavender for the submit button so it is clearly visible to the user. At the bottom of the page I have inserted another original sketch of my location.
 
 _Top of the Blog Page_
