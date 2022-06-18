@@ -14,12 +14,12 @@ _Colour Palette:_
 
 I originally wanted to go with really safe neutral colours like white, tan, beige. But once I started to style with these colours I didn't feel inspired by them. So I did some research and found a colour palette that made me feel creative and captivated me and I decided I would work with something similar to that (inspiration image below)
 
-![image](./assets/colour-palette.png)
+![image](./docs/colour-palette.png)
 Image reference: https://visme.co/blog/website-color-schemes/
 
 _My final colour palette:_
 
-![image](./assets/my-colour-palette.png)
+![image](./docs/my-colour-palette.png)
 
 _Representing my artist talents:_
 
