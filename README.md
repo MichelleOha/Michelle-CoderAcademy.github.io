@@ -45,13 +45,13 @@ As a dyslexic person, I wanted to use that to my advantage when it came to the v
 
 **Sitemap**
 
-![image](<./assets/portfolio_sitemap.drawio%20(2).png>)
+![image](<./docs/portfolio_sitemap.drawio%20(2).png>)
 
 I decided to have my portfolio layout across all device sizes the same so that it is easily recognises by the users. This is something I find a little distracting and sometimes confusing myself when I go from an IPhone to a desktop screen.
 
 **Wireframes created in Figma**
 
-![image](./assets/wireframes-T1A2.png)
+![image](./docs/wireframes-T1A2.png)
 
 **Styling in CSS vs SASS**
 
@@ -63,29 +63,29 @@ _Devtools_ was extremely helpful when it came to altering my styling in CSS. Des
 
 _Home Page_
 
-![image](./assets/home-page.png)
+![image](./docs/home-page.png)
 
 Clean and simplistic design with my name, job title and a unique original sketch that captures the users eye.
 
 _About Me Page_
 
-![image](./assets/about-me-page.png)
+![image](./docs/about-me-page.png)
 
 I have included a photo of myself so that the user recognises who I am as it is the same photo I have used in my linkedin profile. I have given a brief paragraph on my experience. I have a resume button in lavender encouraging the user to click on it which will then open a PDF of a mock resume for them to access and read. Under that I have listed my tertiary qualifications and an original sketch at the bottom of the page.
 
 _Contact Page_
 
-![image](./assets/contacts-page.png)
+![image](./docs/contacts-page.png)
 
 _Amended Contact Form to Center it in the Page_
 
-![image](./assets/amended-form.png)
+![image](./docs/amended-form.png)
 
 I have created a contact form so that there is minimal effort on the users behalf to have to engage and contact me. I have used lavender for the submit button so it is clearly visible to the user. At the bottom of the page I have inserted another original sketch of my location.
 
 _Top of the Blog Page_
 
-![image](./assets/blogs-page.png)
+![image](./docs/blogs-page.png)
 
 The user can select one of the blogs from the list at the top of the page (under the Blogs heading) which has a link directing them start to that particular blog on the same page.
 
